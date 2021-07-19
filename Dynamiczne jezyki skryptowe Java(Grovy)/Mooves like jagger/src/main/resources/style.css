@@ -1,0 +1,98 @@
+/* root */
+
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-base: rgb(255, 255, 255);
+    -fx-background: rgb(247, 247, 247);
+}
+
+/* text labels */
+
+.text-labels {
+    -fx-font-weight: bold;
+    -fx-font-size: 11px;
+    -fx-text-fill: #595959;
+}
+
+/* default button */
+
+.calc-btn {
+    -fx-background-radius: 0;
+    -fx-border-radius: 0;
+    -fx-background-color: #ececec;
+    -fx-text-fill: black;
+    -fx-border-width: 1px;
+    -fx-padding: 2px;
+    -fx-border-insets: 2px;
+    -fx-background-insets: 2px;
+    -fx-cursor: hand;
+}
+
+.calc-num-btn:hover {
+    -fx-background-color: #dedede;
+}
+
+.calc-num-btn:pressed {
+    -fx-background-color: #cbcbcb;
+}
+
+.calc-mem-btn {
+    -fx-background-color: #303030;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.calc-mem-btn:hover {
+    -fx-background-color: #484848;
+}
+
+.calc-mem-btn:pressed {
+    -fx-background-color: #282828;
+}
+
+.calc-c-btn {
+    -fx-background-color: #d75825;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.calc-c-btn:hover {
+    -fx-background-color: #e03c0d;
+}
+
+.calc-c-btn:pressed {
+    -fx-background-color: #a43508;
+}
+
+.calc-op-btn {
+    -fx-background-color: #cdcedb;
+}
+
+.calc-op-btn:hover {
+    -fx-background-color: #b9b9ca;
+}
+
+.calc-op-btn:pressed {
+    -fx-background-color: #8e8ea0;
+}
+
+.calc-eq-btn {
+    -fx-background-color: #87bed9;
+}
+
+.calc-eq-btn:hover {
+    -fx-background-color: #42a1db;
+}
+
+.calc-eq-btn:pressed {
+    -fx-background-color: #317fa4;
+}
+
+.calc-disp-sm {
+    -fx-font-size: 16px;
+}
+
+.calc-disp-lg {
+    -fx-font-size: 42px;
+}
+

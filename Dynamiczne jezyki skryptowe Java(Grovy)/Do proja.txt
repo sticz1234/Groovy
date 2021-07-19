@@ -1,0 +1,13 @@
+stack  w groovy,  wszystkie dane unikalne
+wrzucenie czegos na stacka (w dowolnym miejscu)
+ujecie elementu ze stacka (dowolnego)
+
+podstawowy element groovy, reszta dowolna
+
+Wyswietlacz obejmuje cale wyrażenie
+Pokazanie wartości ma odbywac sie po  = 
+Idiotoodporny(nie mozliwe musi byc wpisanie bzdur) 
+błąd jak na przykład pierwiastek z -2 
+funkcje typu cosinus sinus
+podobny jak w windowsie, ale odrobine mniej skomplikowany
+nawiasy,zmiana znaku, kropka, operacje arytmetyczne,potęga i pierwiastek  nie dziesietne,nie dwojkowe itd
